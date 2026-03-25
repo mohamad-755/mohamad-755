@@ -1,43 +1,53 @@
 <!-- cSpell:ignore Ziadah -->
 
-# Hi there, I'm *Mohammad Ziadah* 👋
+# Hi there 👋, I'm Mohammad Ziadah
 
-## About Me
+🚀 Computer Science Student @ **American University of Beirut (AUB)** | 🤖 AI & Data Science Enthusiast | 💡 Building real-world solutions with code
 
-I am a passionate developer with a strong interest in coding, problem-solving,  
-and continuous learning. My background is in **Computer Science**, and I have  
-a keen focus on **Web Development**. I enjoy creating efficient, scalable,  
-and user-friendly solutions.  
+---
 
-- 🔭 I’m currently working on my journey to becoming a **Software Engineer**.  
-- 🌱 I’m learning **Python** and **JavaScript** to expand my skill set.  
-- 🤔 I’m always happy to contribute to and support my community.  
-- 💡 Fun fact: I believe every problem is an opportunity to learn  
-  something new!
+## 🌟 About Me
 
-## Skills & Technologies
+- 🎓 Computer Science student at **AUB**
+- 🚀 MIT Emerging Talent – Computer & Data Science  
+- 🧠 Strong interest in **AI, Data Science, and Algorithms**
+- 💻 Passionate about **problem solving, data structures, and system thinking**
+- 🤝 Open to collaboration on AI and software projects
 
-Here’s a snapshot of the tools and technologies I work with:
+---
 
-### Programming Languages
+## 🚀 My Skills
 
-- **JavaScript**: Dynamic web development and interactive UIs  
-- **Python**: Data analysis, automation, and back-end development
+### 💻 Programming Languages
+- Java  
+- Python  
+- JavaScript  
 
-### Tools & Platforms
+### 🧠 Core Skills
+- Data Structures & Algorithms  
+- Problem Solving  
+- Object-Oriented Programming  
 
-- **Version Control**: Git (GitHub)  
-- **IDEs**: Visual Studio Code  
-- **Databases**: Excel (working towards SQL proficiency)
+### 🛠️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Google Colab  
+
+---
+
+## 📂 Featured Projects
+
+- 📊 **Refugee Education Access – Research Project**  
+  A research-driven project using data analysis to explore barriers to higher education for refugee students. Focused on extracting insights from datasets and presenting findings through visualizations to support data-informed solutions.
+
+---
 
 ## Connect with Me
 
 Feel free to reach out and connect with me:
 
-- 📧 **Email**:  
-  [mohammadziadah212@gmail.com](mailto:mohammadziadah212@gmail.com)  
-- 💼 **LinkedIn**: [Mohammad Ziadah](https://www.linkedin.com/in/mohammad-ziadah-206b93338)
+- 📧 **Email:** [mohammadziadah212@gmail.com](mailto:mohammadziadah212@gmail.com)  
+- 💼 **LinkedIn:** [Mohammad Ziadah](https://www.linkedin.com/in/mohammad-ziadah-206b93338)
 
 ---
 
-Thanks for stopping by my profile! 😊 Let's build something amazing together! 🚀
