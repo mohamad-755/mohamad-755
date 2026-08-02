@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Mohamad Ziadah 👋</h1>
 
 <p align="center">
-Computer Science student building full-stack software and AI-driven solutions — from platforms that solve real problems to models that learn from data.
+Computer Science student building full-stack software and AI-driven
+solutions — from platforms that solve real problems to models that learn
+from data.
 </p>
 
 <p align="center">
@@ -14,50 +16,82 @@ Computer Science student building full-stack software and AI-driven solutions �
 
 ### 👋 About Me
 
-Computer Science student at the **American University of Beirut**, with hands-on experience across both **software engineering** and **applied AI/data science** — building full-stack platforms with Java and Spring Boot, and exploring machine learning foundations through **MIT Emerging Talent**, **TRI AI Saturdays**, and **LebNet**. I'm also the **Founder of Root Academy**, and I'm focused on turning ideas into practical, working solutions, whether that's a shipped product or a trained model.
+Computer Science student at the **American University of Beirut**, with
+hands-on experience across both **software engineering** and **applied
+AI/data science** — building full-stack platforms with Java and Spring
+Boot, and exploring machine learning foundations through **MIT Emerging
+Talent**, **TRI AI Saturdays**, and **LebNet**. I'm also the **Founder of
+Root Academy**, and I'm focused on turning ideas into practical, working
+solutions, whether that's a shipped product or a trained model.
 
 ---
 
 ### 🎓 Education
 
-**B.S. in Computer Science** — American University of Beirut, Beirut, Lebanon
-`Aug 2025 – Present` · GPA: **3.99 / 4.0** · Dean's Honor List (Fall 2025–2026)
+**B.S. in Computer Science** — American University of Beirut, Beirut,
+Lebanon
+`Aug 2025 – Present` · GPA: **3.99 / 4.0** · Dean's Honor List
+(Fall 2025–2026)
 
 ---
 
 ### 💼 Experience
 
 **Founder** — Root Academy · `2026 – Present`
+
 - Launched a student-centered Introduction to Data Science cohort program
-- Designed and built the full internal platform running the cohort — curriculum delivery, submissions, and admin review
+- Designed and built the full internal platform running the cohort —
+  curriculum delivery, submissions, and admin review
 
 **Tech Fellow** — LebNet · `Jun 2026 – Present`
-- Selected for a competitive summer program supporting Lebanon's top undergraduate tech talent
-- Focused on AI/ML foundations, collaborative projects, and mentorship from professionals at global tech companies and universities
 
-**Program Participant, Cohort 10** — TRI AI Saturdays / AI Saturdays Lagos · `May 2026 – Sep 2026`
-- Selected for a 16-week hands-on AI program supported by Google DeepMind, alongside learners from 83 countries
-- Studying language model fundamentals — tokenization, embeddings, neural networks, transformers, and small language model development
+- Selected for a competitive summer program supporting Lebanon's top
+  undergraduate tech talent
+- Focused on AI/ML foundations, collaborative projects, and mentorship
+  from professionals at global tech companies and universities
 
-**Program Participant** — MIT Emerging Talent, Computer & Data Science · `Nov 2024 – Dec 2025`
-- Completed a selective one-year MIT Open Learning program in data analysis, data cleaning, and applied AI
-- Collaborated with an international team on an end-to-end data science project, from problem framing to analysis and presentation
+**Program Participant, Cohort 10** — TRI AI Saturdays / AI Saturdays
+Lagos · `May 2026 – Sep 2026`
+
+- Selected for a 16-week hands-on AI program supported by Google
+  DeepMind, alongside learners from 83 countries
+- Studying language model fundamentals — tokenization, embeddings, neural
+  networks, transformers, and small language model development
+
+**Program Participant** — MIT Emerging Talent, Computer & Data Science ·
+`Nov 2024 – Dec 2025`
+
+- Completed a selective one-year MIT Open Learning program in data
+  analysis, data cleaning, and applied AI
+- Collaborated with an international team on an end-to-end data science
+  project, from problem framing to analysis and presentation
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Root Academy Cohort Tracker](https://github.com/mohamad-755/root-academy-cohort-tracker)** — Root Academy
+**[Root Academy Cohort Tracker](https://github.com/mohamad-755/root-academy-cohort-tracker)**
+— Root Academy
 `Python` `Flask` `SQLAlchemy`
-A full-stack web app running Root Academy's live Data Science cohort — students view weekly curriculum and submit work, while admins track progress, leave feedback, and send reminders. Built with Flask blueprints, Flask-Migrate schema management, CSRF-protected forms, and pytest + GitHub Actions CI.
+A full-stack web app running Root Academy's live Data Science cohort —
+students view weekly curriculum and submit work, while admins track
+progress, leave feedback, and send reminders. Built with Flask
+blueprints, Flask-Migrate schema management, CSRF-protected forms, and
+pytest + GitHub Actions CI.
 
 **[SkillBridge — Smart Internship Matcher](https://github.com/mohamad-755/skillbridge-smart-internship-matcher)**
 `Spring Boot` `Python` `Data Science`
-An intelligent platform matching students to internships by skills, interests, location, and career goals — with match scoring, skill-gap analysis, and personalized learning roadmaps for explainable recommendations.
+An intelligent platform matching students to internships by skills,
+interests, location, and career goals — with match scoring, skill-gap
+analysis, and personalized learning roadmaps for explainable
+recommendations.
 
-**[Collaborative Data Science Project](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo)** — MIT Emerging Talent
+**[Collaborative Data Science Project](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo)**
+— MIT Emerging Talent
 `Python` `pandas`
-Explored blockchain-based credit systems for financial inclusion, focused on migrants and refugees — using pandas for data cleaning, EDA, and translating dataset patterns into real-world insights.
+Explored blockchain-based credit systems for financial inclusion, focused
+on migrants and refugees — using pandas for data cleaning, EDA, and
+translating dataset patterns into real-world insights.
 
 ---
 
@@ -75,7 +109,11 @@ Explored blockchain-based credit systems for financial inclusion, focused on mig
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-*Data cleaning · EDA · feature engineering · supervised learning foundations · model evaluation · embeddings · tokenization · transformers · prompt engineering*
+#### AI/ML Focus Areas
+
+Data cleaning · EDA · feature engineering · supervised learning
+foundations · model evaluation · embeddings · tokenization · transformers
+· prompt engineering
 
 **Software Development**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -84,7 +122,9 @@ Explored blockchain-based credit systems for financial inclusion, focused on mig
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-*REST APIs · JPA/Hibernate · H2 · Swagger*
+#### Backend Focus Areas
+
+REST APIs · JPA/Hibernate · H2 · Swagger
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -92,26 +132,30 @@ Explored blockchain-based credit systems for financial inclusion, focused on mig
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **CS Foundations**
-Data Structures & Algorithms · Recursion · Object-Oriented Programming · Problem Solving
+Data Structures & Algorithms · Recursion · Object-Oriented Programming ·
+Problem Solving
 
 ---
 
 ### 🏆 Achievements
 
 - 🏅 Dean's Honor List — Fall 2025–2026, American University of Beirut
-- 🎓 Higher Education Scholarship (HES), U.S. Department of State — awarded to top students in Lebanon based on academic performance
+- 🎓 Higher Education Scholarship (HES), U.S. Department of State —
+  awarded to top students in Lebanon based on academic performance
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamad-755&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-755&layout=compact&hide_border=true" />
+<img height="165" alt="Mohamad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohamad-755&show_icons=true&theme=default&hide_border=true" />
+<img height="165" alt="Mohamad's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-755&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-📫 Open to collaboration on AI and software projects — reach out on <a href="https://www.linkedin.com/in/mohamad-naim-ziadah-206b93338/">LinkedIn</a> or by <a href="mailto:mohammadziadah212@gmail.com">email</a>.
+📫 Open to collaboration on AI and software projects — reach out on
+<a href="https://www.linkedin.com/in/mohamad-naim-ziadah-206b93338/">LinkedIn</a>
+or by <a href="mailto:mohammadziadah212@gmail.com">email</a>.
 </p>
