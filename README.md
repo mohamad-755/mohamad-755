@@ -145,15 +145,6 @@ Problem Solving
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" alt="Mohamad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohamad-755&show_icons=true&theme=default&hide_border=true" />
-<img height="165" alt="Mohamad's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-755&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center">
 📫 Open to collaboration on AI and software projects — reach out on
 <a href="https://www.linkedin.com/in/mohamad-naim-ziadah-206b93338/">LinkedIn</a>
